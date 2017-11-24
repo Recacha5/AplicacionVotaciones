@@ -25,7 +25,29 @@ public class Votacion {
         this.estado = true;
         this.nombre = nombre;
     }
+    
+    public void resultadoVotacion(){
+        
+        
+        
+    }
+    
+    public boolean andadirVoto(Persona persona){
 
+        
+        return true;
+    }
+    
+    public String verVotos(){
+    
+        return "";
+    }
+    
+    public String verVotoPersona (String nombre){
+        
+        return "";
+    }
+    
     /**
      * @return the vPersonas
      */

@@ -14,14 +14,10 @@ public class Persona {
     private String nombre;
     private String voto;
 
-    public Persona() {
-    }
-
     public Persona(String nombre, String voto) {
         this.nombre = nombre;
         this.voto = voto;
     }
-
     /**
      * @return the nombre
      */
